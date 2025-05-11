@@ -1,4 +1,4 @@
-# Minecraft link tool
+# MC Link 
 Minecraft Java Editionの起動構成のデータを同期します。
 
 ## ダウンロード
@@ -8,3 +8,4 @@ Minecraft Java Editionの起動構成のデータを同期します。
 ・ワールドデータ
 ・リソースパック
 ・シェーダーパック(optifine,Iris)
+
