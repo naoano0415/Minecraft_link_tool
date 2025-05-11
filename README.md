@@ -1,2 +1,4 @@
 # Minecraft_link_tool
-Minecraft Java Editionの起動構成のワールド等を同期します
+Minecraft Java Editionの起動構成のワールド等を同期します。
+
+ダウンロード(.Minecraft_link_tool.zip)
