@@ -6,7 +6,7 @@ PrismLauncherでリソースパック等が分かれるのがめんどくさか�
 [Windows](https://github.com/naoano0415/Minecraft_link_tool/raw/refs/heads/main/Minecraft_link_tool.zip)
 
 ## 同期されるもの
-・ワールドデータ
-・リソースパック
-・シェーダーパック(optifine,Iris)
+- ワールドデータ
+- リソースパック
+-  シェーダーパック(optifine,Iris)
 
