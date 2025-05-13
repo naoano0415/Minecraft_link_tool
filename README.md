@@ -1,5 +1,5 @@
 # MC Link 
-Minecraft Java Editionの起動構成のデータを同期します。
+Minecraft Java Editionの起動構成のデータを同期します。  
 PrismLauncherでリソースパック等が分かれるのがめんどくさかったので作りました。
 
 ## ダウンロード
