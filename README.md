@@ -1,4 +1,5 @@
 # MC Link 
+[バナー](imgs/MC-link バナー.png)
 Minecraft Java Editionの起動構成のデータを同期します。  
 PrismLauncherでリソースパック等が分かれるのがめんどくさかったので作りました。
 
