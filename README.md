@@ -27,6 +27,5 @@ PrismLauncherでリソースパック等が分かれるのがめんどくさか�
 </pre>  
   FolderNameの部分を選択する
 - 同期するものを選択し、実行をクリック  
-  ![s5](imgs/s5.png)  
   <b>※同期先フォルダのデータは削除されます※</b>  
-  ![s6](imgs/s6.png)
+  ![s5](imgs/s5.png)  
