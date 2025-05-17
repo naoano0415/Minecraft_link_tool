@@ -21,7 +21,7 @@ PrismLauncherでリソースパック等が分かれるのがめんどくさか�
 - 同期元フォルダ・同期先フォルダを設定する
 <pre>
 <b>any name</b>
-├── xxx
-├── xxx
-└── README.md
+├── saves
+├── resourcepacks
+└── shaderpacks
 </pre>
