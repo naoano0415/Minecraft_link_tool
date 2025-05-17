@@ -16,12 +16,15 @@ PrismLauncherでリソースパック等が分かれるのがめんどくさか�
 - zipファイルを展開  
   ![s2](imgs/s2.png)
 - 中にあるexeファイルを実行  
-  ![s3](imgs/s3.png)  
-  ![s4](imgs/s4.png)
+  ![s3](imgs/s3.png)
 - 同期元フォルダ・同期先フォルダを設定する
+  ![s4](imgs/s4.png)
 <pre>
-<b>any name</b>
+<b>FolderName</b>
 ├── saves
 ├── resourcepacks
 └── shaderpacks
-</pre>
+</pre>  
+FolderNameの部分を選択する
+- 同期するものを選択し、実行をクリック
+  <b>※同期先フォルダのデータは削除されます※</b>
