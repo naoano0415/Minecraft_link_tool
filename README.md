@@ -18,3 +18,10 @@ PrismLauncherでリソースパック等が分かれるのがめんどくさか�
 - 中にあるexeファイルを実行  
   ![s3](imgs/s3.png)  
   ![s4](imgs/s4.png)
+- 同期元フォルダ・同期先フォルダを設定する
+<pre>
+**any namez**
+├── xxx
+├── xxx
+└── README.md
+</pre>
