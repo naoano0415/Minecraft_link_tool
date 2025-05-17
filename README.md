@@ -16,5 +16,5 @@ PrismLauncherでリソースパック等が分かれるのがめんどくさか�
 - zipファイルを展開  
   ![s2](imgs/s2.png)
 - 中にあるexeファイルを実行  
-  ![s3](imgs/s3.png)
+  ![s3](imgs/s3.png)  
   ![s4](imgs/s4.png)
