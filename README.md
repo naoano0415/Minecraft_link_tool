@@ -20,7 +20,7 @@ PrismLauncherでリソースパック等が分かれるのがめんどくさか�
   ![s4](imgs/s4.png)
 - 同期元フォルダ・同期先フォルダを設定する
 <pre>
-**any namez**
+<b>any name</b>
 ├── xxx
 ├── xxx
 └── README.md
